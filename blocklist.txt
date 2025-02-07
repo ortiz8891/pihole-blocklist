@@ -15877,5 +15877,25 @@
 127.0.0.1 zqvee2re50mr.com
 127.0.0.1 zucks.net
 #===============================================================
-0.0.0.0 youporn.com
-0.0.0.0 redtube.com
+0.0.0.0	pornhub.com
+0.0.0.0	xvideos.com
+0.0.0.0	123av.com
+0.0.0.0	youporn.com
+0.0.0.0	youjizz.com
+0.0.0.0	torjakan.info
+0.0.0.0	xhamster.com
+0.0.0.0	xnxx.com
+0.0.0.0	redtube.com
+0.0.0.0	porn.com
+0.0.0.0	ixxx.com
+0.0.0.0	sunporno.com
+0.0.0.0	onlyfans.com
+0.0.0.0	pornhat.com
+0.0.0.0	porn300.com
+0.0.0.0	pornone.com
+0.0.0.0	sexvid.xxx
+0.0.0.0	zbporn.com
+0.0.0.0	fuq.com
+0.0.0.0	ok.xxx
+0.0.0.0	fansly.com
+
